@@ -1,1 +1,1 @@
-# Building custom chatbots with Gemini 2.0
+# Building chatbots with Gemini
